@@ -1,0 +1,51 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://replit.com/@jasminjasmin537/Check-leap-year-or-not-using-if-statement#main.py
+Subject: Offline - Replit
+Date: Fri, 29 Sep 2023 01:11:42 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--VDlzKJVUD1yBgmItb5FbU4jdUnieXY8aDqqdcODx5F----"
+
+
+------MultipartBoundary--VDlzKJVUD1yBgmItb5FbU4jdUnieXY8aDqqdcODx5F----
+Content-Type: text/html
+Content-ID: <frame-4C49E7B9A3B8BF8ACA2088C9B08F249B@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://replit.com/@jasminjasmin537/Check-leap-year-or-not-using-if-statement#main.py
+
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-9efe7eb9-38c5-46cc-a470-d937ddb11a52@mhtml.blink" />
+    <link rel="icon" href="https://replit.com/public/images/favicon.ico" type="image/vnd.microsoft.icon">
+    <title>Offline - Replit</title>
+  </head>
+  <body>
+    <div id="content">
+      <h1>🙈</h1>
+      <h4>You’re offline!</h4>
+      <p>Check your connection and refresh to access Replit.</p>
+      <button>Refresh</button>
+    </div>
+    
+    
+  
+
+</body></html>
+------MultipartBoundary--VDlzKJVUD1yBgmItb5FbU4jdUnieXY8aDqqdcODx5F----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-9efe7eb9-38c5-46cc-a470-d937ddb11a52@mhtml.blink
+
+@charset "utf-8";
+
+body { font-family: "IBM Plex Sans", system-ui, sans-serif; font-style: normal; font-weight: 400; background-color: rgb(255, 255, 255); app-region: drag; }
+
+#content { text-align: center; display: flex; flex-direction: column; min-height: 100vh; align-items: center; justify-content: center; }
+
+p { margin-top: 0px; }
+
+button { cursor: pointer; height: 37px; min-width: 120px; padding: 0px 10px; line-height: 37px; text-align: center; font-family: inherit; font-size: 16px; outline: 0px; text-decoration: none; border: none; background-color: rgb(52, 133, 228); color: rgb(255, 255, 255); border-radius: 4px; app-region: no-drag; }
+
+@media (prefers-color-scheme: dark) {
+  body { background: rgb(14, 21, 37); color: rgb(245, 249, 252); }
+}
+------MultipartBoundary--VDlzKJVUD1yBgmItb5FbU4jdUnieXY8aDqqdcODx5F------
